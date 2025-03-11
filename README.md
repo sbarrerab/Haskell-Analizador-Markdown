@@ -1,6 +1,6 @@
 # Analizador de Markdown en Haskell
 
-Este proyecto implementa un analizador de Markdown en Haskell, capaz de interpretar distintos elementos de formato y convertirlos en una representación estructurada utilizando un tipo de dato personalizado.
+Este proyecto implementa un analizador de Markdown en Haskell el cual puede ser ejecutado en WinHugs, capaz de interpretar distintos elementos de formato y convertirlos en una representación estructurada utilizando un tipo de dato personalizado.
 
 ## Características principales
 
